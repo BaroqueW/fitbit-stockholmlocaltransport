@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "7580db31-7c10-4264-9d6c-aa5c4e13bd44",
+    "appType": "app",
+    "appDisplayName": "SLT",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#3f51b5",
+    "requestedPermissions": [
+      "access_internet",
+      "access_location"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "SLT"
+      }
+    }
+  }
+}
