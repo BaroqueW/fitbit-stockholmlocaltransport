@@ -5,6 +5,8 @@ Allows you to set your favorite two destinations and shows you next departures b
 
 This app is based on information retrieved from [Trafiklab.se](http://www.trafiklab.se).
 
+Project for the app on Trafiklab: https://www.trafiklab.se/projekt/stockholm-local-transport-fitbit
+
 ![Screenshot](screenshot.png)
 
 ## License
